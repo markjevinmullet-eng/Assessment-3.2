@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Python 3.14 (Mullet-2E)" />
+    <option name="sdkName" value="Python 3.14 (mullet-2E)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (Mullet-2E)" project-jdk-type="Python SDK" />
 </project>
